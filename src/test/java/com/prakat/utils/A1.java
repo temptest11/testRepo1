@@ -12,5 +12,9 @@ public class A1 {
 		int e=1656;
 
 	}
+	
+	public void m3() {
+		int d=12;
+	}
 
 }
