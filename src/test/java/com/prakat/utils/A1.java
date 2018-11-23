@@ -9,7 +9,7 @@ public class A1 {
 		int b=23;
 	}
 	public void m1(){
-		int e=10;
+		int e=1656;
 
 	}
 
